@@ -1,28 +1,28 @@
-# Name: 
+## Name: 
 
-# Education:
-1. Bonston Univ - Computer
+## Education:
+1. Boston Univ - Computer Science
 
-# Experiences:
+## Experiences:
 
 
-# Code Stack:
+## Code Stack:
 1. Python
 2. C
 3. C++
 4. C#
 5. Unreal
 
-# Interest:
+## Interest:
 1. Game Engine
 2.
 
-# Project:
+## Project:
 1.
 2.
 3.
 
-# Study:
+## Study:
 1.
 2.
 3.
